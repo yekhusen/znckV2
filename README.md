@@ -8,7 +8,7 @@ $ pkg update && pkg upgrade
 $ pkg install python             
 $ pkg install python2           
 $ pkg install git         
-$ pkg install mechanize           
+$ pip2 install mechanize           
 $ git clone https://github.com/XhurayraEAAG/znckV2         
 ```
 ### Run 
